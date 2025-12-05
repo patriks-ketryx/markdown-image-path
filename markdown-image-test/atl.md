@@ -8,4 +8,4 @@ x
 - test bullet 2
 !./images/cat.jpg!
 
-Lorem Ipsum ...
+Lorem Ipsum ..
