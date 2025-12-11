@@ -5,4 +5,4 @@ itemTitle: LIST
 ![elephant](./images/elephant.jpg)
 
 - test bullet 2
-![cat](./images/mouse.jpg)
+![cat](./images/cat.jpg)
