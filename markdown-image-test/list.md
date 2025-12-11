@@ -6,6 +6,3 @@ itemTitle: LIST
 
 - test bullet 2
 ![cat](./images/cat.jpg)
-
-
-Lorem Ipsum ...
